@@ -93,7 +93,7 @@ public class Main {
         }
 
         System.out.println("Прибыль по месяцам (inputArray5): " + Arrays.toString(inputArray5));
-        System.out.println("Количество рентабельных месяцев (outputArray5): " + Arrays.toString(outputArray5));
+        System.out.println("Количество рентабельных месяце (outputArray5): " + Arrays.toString(outputArray5));
 
     }
 }
